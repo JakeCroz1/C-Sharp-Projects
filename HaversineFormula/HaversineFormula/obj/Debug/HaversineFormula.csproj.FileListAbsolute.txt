@@ -1,0 +1,7 @@
+C:\VS Projects\HaversineFormula\HaversineFormula\bin\Debug\HaversineFormula.exe.config
+C:\VS Projects\HaversineFormula\HaversineFormula\bin\Debug\HaversineFormula.exe
+C:\VS Projects\HaversineFormula\HaversineFormula\bin\Debug\HaversineFormula.pdb
+C:\VS Projects\HaversineFormula\HaversineFormula\obj\Debug\HaversineFormula.csproj.CoreCompileInputs.cache
+C:\VS Projects\HaversineFormula\HaversineFormula\obj\Debug\HaversineFormula.exe
+C:\VS Projects\HaversineFormula\HaversineFormula\obj\Debug\HaversineFormula.pdb
+C:\VS Projects\HaversineFormula\HaversineFormula\obj\Debug\HaversineFormula.csprojAssemblyReference.cache
